@@ -1,0 +1,38 @@
+p {
+    color: green;
+}
+
+h3 {
+    color: steelblue;
+    font-weight: bold;
+}
+
+li {
+    color: red;
+    border: 2.5px dotted orange;
+    padding: 2px;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+img {
+    height: 200px;
+}
+
+div {
+    font-weight: bold;
+    color: steelblue;
+}
+
+h2 {
+    color: orange;
+    font-weight: 100px;
+}
+
+body {
+    background-color: lightblue;
+}
