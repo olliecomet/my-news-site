@@ -1,7 +1,8 @@
-/* header */
+/* new style */
 
 header {
   display: flex;
+  align-items: center;
   background-color: #eee;
   height: 5vh;
   padding: 1vh;
@@ -15,7 +16,34 @@ header {
 h1 {
   color: navy;
   font-weight: bold;
-  font-size: 40px;
+  font-size: 35px;
+}
+
+main {
+  display: flex;
+}
+
+article {
+  background-color: wheat;
+  height: 88vh;
+  width: 80vw;
+  padding: 1%;
+}
+
+aside {
+  background-color: palegreen;
+  height: 88vh;
+  width: 20vw;
+  padding: 1%;
+}
+
+footer {
+  background-color: #eee;
+  height: 1vh;
+  padding: 1vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* old style */
